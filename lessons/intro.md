@@ -157,25 +157,24 @@ FROM mexico m1
 
 ---
 
-Escuela patito -> Clase BD -> Prof John Doe -> Alumno01
-Escuela patito -> Clase BD -> Prof John Doe -> Alumno02
-Escuela patito -> Clase Mate -> Prof John Doe -> Alumno03
-Escuela patito -> Clase Mate -> Prof John Doe -> Alumno02
+###Escuela patito -> Clase BD -> Prof John Doe -> Alumno01
+###Escuela patito -> Clase BD -> Prof John Doe -> Alumno02
+###Escuela patito -> Clase Mate -> Prof John Doe -> Alumno03
+###Escuela patito -> Clase Mate -> Prof John Doe -> Alumno02
 
 ---
 
-Escuela(Clase(Profesor)(Alumno(s)))
+###Escuela(Clase(Profesor)(Alumno(s)))
 
 ---
 
-Escuela:
-    "patito"
-    Clase:
-        "BD"
-        Profesor:
-            "John Doe"
-        Alumno:
-            "Alumno01"
-            "Alumno02"
-            
+###Escuela:
+###--"patito"
+###--Clase:
+###----"BD"
+###----Profesor:
+###------"John Doe"
+###----Alumno:
+###------"Alumno01"
+###------"Alumno02"
 ---
