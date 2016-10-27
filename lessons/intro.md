@@ -177,4 +177,41 @@ FROM mexico m1
 ###----Alumno:
 ###------"Alumno01"
 ###------"Alumno02"
+
 ---
+
+#Modelado de datos NoSQL en base a:
+
+##Problema
+##Paradigma de desarrollo
+##Consultas
+
+---
+
+#Conceptos generales de Modelado
+
+## Denormalización
+## Duplicados
+## Referencia
+
+---
+
+#Técnicas comunes
+
+## Agregados
+## Listas ordenadas
+## Índices
+## Índices compuestos
+## ...
+
+---
+
+#Técnicas de jerarquías
+
+## Listas de adyacencia
+## Path materializado
+## Conjuntos anidados
+## Denormalización/Agregados
+
+---
+
