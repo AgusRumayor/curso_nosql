@@ -16,6 +16,7 @@
 # [Introducción]()
 ## SQL vs NoSQL
 ### CAP
+### BASE vs ACID
 ## Modelando datos
 ### Problemas comunes
 ## Modelado de datos NoSQL
@@ -62,6 +63,13 @@
 #SQL vs NoSQL
 
 ![CAP](https://lh3.googleusercontent.com/agYqNtr4FLP70zAVsnRl7s_R8mHPojbgHpXcbD-5VGhYz4ilI1pMDKLb77girBsQwusf41Zbj9EKYA=w1366-h655-rw)
+
+---
+
+
+#SQL vs NoSQL
+
+![BASE]()
 
 ---
 
@@ -222,8 +230,8 @@ FROM mexico m1
 
 ---
 
-# Modelar un administrador de proyectos interno
+## Modelar un administrador de proyectos interno
 
 ---
 
-# Modelar proyecto 
+## Modelar proyecto 
