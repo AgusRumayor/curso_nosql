@@ -6,6 +6,7 @@
 
 # ¿Por qué aprender otra forma de guardar datos?
 # Y, ¿por qué no?
+
 ---
 
 # Temario
@@ -215,3 +216,14 @@ FROM mexico m1
 
 ---
 
+#Actividad Modelado de datos NoSQL
+
+### Modelar es igual o más importante que implementar
+
+---
+
+# Modelar un administrador de proyectos interno
+
+---
+
+# Modelar proyecto 
