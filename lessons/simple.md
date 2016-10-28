@@ -50,7 +50,7 @@ Varía en cada administrador, forma de implementar
 
 ---
 
-## Configuraciones 
+## Configuraciones comunes
 
 ### RAM vs I/O
 ### Eventaulmente consistente vs transacciones
@@ -98,4 +98,118 @@ Varía en cada administrador, forma de implementar
 ### Oracle NoSQL 
 ### Tokyo Cabinet
 
+...
+
 ---
+
+# Implementación
+
+---
+
+## [Tutorial de Redis](https://try.redis.io/)
+
+---
+
+## Ejercicio
+
+---
+
+# Documentos
+
+---
+
+### Modelado simple de información
+### Conjunto de claves-valor
+### Paradigma que guarda colecciones de datos generalmente ordenados
+### Estandarte del movimiento NoSQL
+
+### {Key:Value, Key:Value}
+
+---
+
+## Ventajas
+
+### Modelado simple
+### Guardado en documentos
+### Elasticidad en documentos
+### Múltiples usos
+
+
+---
+
+## Desventajas
+
+### Modelar estructuras con múltiples relaciones
+### Configurar ajustes para encontrar QAs
+### Múltiples técnicas de modelado
+
+---
+
+##Proyectos clásicos
+
+### Aplicaciones web
+### Aplicaciones transaccionales
+### Búsqueda de documentos por índices
+### Aplicaciones con versionamiento
+
+---
+
+## Configuraciones comunes
+
+### Eventaulmente consistente vs transacciones
+### Replicado
+### Indexado
+### Particionamiento
+
+---
+
+# Modelando Documentos
+
+---
+
+1. Definir entidades/objetos
+2. Definir relaciones entre entidades
+3. Elegir punto de denormalización/agregados
+4. Definir claves-valor
+5. Definir acceso e índices
+6. Prototipar documentos
+
+---
+
+## Ejemplo
+
+### {id:p001,
+### version:1,
+### participants:[{name:"John Doe", role:"Developer"}, {name:"Jane Doe", role:"Manager"}],
+### status:"active"}
+
+---
+
+## Modelar un administrador de proyectos interno
+
+---
+
+# Administradores
+
+---
+
+### MongoDB
+### CouchDB 
+### Couchbase
+### Amazon DynamoDB
+### RethinkDB
+### PouchDB
+
+...
+
+---
+
+# Implementación
+
+---
+
+## [Tutorial de MongoDB](https://try.mongodb.org/)
+
+---
+
+## Ejercicio
