@@ -61,17 +61,18 @@
 
 1. Definir entidades
 2. Definir consultas
+* Definir subconsultas
 3. Crear tablas por cada consulta
-4. Definir métodos de inserción
+4. Definir métodos de inserción (Múltiples tablas)
 5. Prototipar consultas
 
 ---
 
 ## Ejemplo
 
-| id   | versión | status |  participants     |   |
-|------|---------|--------|-------------------|---|
-| p001 | 1       | active | ["john", "jane"]  |   |
+| id   | versión | status |  participants     |
+|------|---------|--------|-------------------|
+| p001 | 1       | active | ["john", "jane"]  |
 
 ---
 
@@ -86,8 +87,7 @@
 ### Cassandra
 ### Hbase
 ### Accumulo
-
-...
+### BigTable
 
 ---
 
@@ -130,6 +130,7 @@
 ### Consultas en grafos complejos
 ### Aprender lenguajes de consulta
 ### Cantidad adicional de información al escribir
+### Difícil modelar con texto
 
 ---
 
@@ -155,19 +156,14 @@
 
 1. Definir entidades/objetos
 2. Definir relaciones entre entidades
-3. Elegir punto de denormalización/agregados
-4. Definir claves-valor
-5. Definir acceso e índices
-6. Prototipar documentos
+3. Definir consultas
+4. Prototipar grafo
 
 ---
 
 ## Ejemplo
 
-### {id:p001,
-### version:1,
-### participants:[{name:"John Doe", role:"Developer"}, {name:"Jane Doe", role:"Manager"}],
-### status:"active"}
+### {tipo:"proyecto", id:001, version:1, status:"active"}->{tipo"participant", name:"John Doe"}
 
 ---
 
@@ -179,12 +175,12 @@
 
 ---
 
-### MongoDB
-### CouchDB 
-### Couchbase
-### Amazon DynamoDB
-### RethinkDB
-### PouchDB
+### Neo4J
+### Titan 
+### Giraph
+### Dgraph
+
+### Varias multimodelo
 
 ...
 
@@ -194,7 +190,7 @@
 
 ---
 
-## [Tutorial de MongoDB](https://try.mongodb.org/)
+## [Tutorial de Neo4J]()
 
 ---
 
