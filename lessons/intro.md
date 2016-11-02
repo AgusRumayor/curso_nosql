@@ -68,14 +68,14 @@
 
 #SQL vs NoSQL
 
-![CAP](https://lh3.googleusercontent.com/agYqNtr4FLP70zAVsnRl7s_R8mHPojbgHpXcbD-5VGhYz4ilI1pMDKLb77girBsQwusf41Zbj9EKYA=w1366-h655-rw)
+![CAP](http://181.215.245.136/content/images/extras/cap.png)
 
 ---
 
 
 #SQL vs NoSQL
 
-![BASE]()
+![BASE](http://181.215.245.136/content/images/extras/acid.png)
 
 ---
 
