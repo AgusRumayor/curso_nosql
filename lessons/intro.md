@@ -18,45 +18,45 @@
 * CAP
 * BASE vs ACID
 ## Modelando datos
-### Problemas comunes
+* Problemas comunes
 ## Modelado de datos NoSQL
-### Actividad Modelado de datos NoSQL
+* Actividad Modelado de datos NoSQL
 
 ---
 
 ## [Modelados simples]()
 ## Clave-Valor
-### Modelando Clave-Valor
-### Administradores
-### Implementación
+* Modelando Clave-Valor
+* Administradores
+* Implementación
 ## Documentos
-### Modelando Documentos
-### Administradores
-### Implementación
+* Modelando Documentos
+* Administradores
+* Implementación
 
 ---
 
 ## [Modelados complejos]()
 ## Columnas
-### Modelando Columnas
-### Administradores
-### Implementación
+* Modelando Columnas
+* Administradores
+* Implementación
 ## Grafos
-### Modelando grafos
-### Administradores
-### Implementación
+* Modelando grafos
+* Administradores
+* Implementación
 
 ---
 
 ## [Conclusiones]()
 ## Bases de datos orientadas a objetos
-### Administradores
+* Administradores
 ## Bases de datos inmutables
-### Administradores
-### Implementación
+* Administradores
+* Implementación
 ## SQL + NoSQL + NewSQL
-### Evaluar administradores
-### Proyectos
+* Evaluar administradores
+* Proyectos
 
 ---
 
