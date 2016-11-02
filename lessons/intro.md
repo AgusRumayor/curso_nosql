@@ -17,8 +17,10 @@
 ## SQL vs NoSQL
 * CAP
 * BASE vs ACID
+
 ## Modelando datos
 * Problemas comunes
+
 ## Modelado de datos NoSQL
 * Actividad Modelado de datos NoSQL
 
@@ -29,6 +31,7 @@
 * Modelando Clave-Valor
 * Administradores
 * Implementación
+
 ## Documentos
 * Modelando Documentos
 * Administradores
@@ -41,6 +44,7 @@
 * Modelando Columnas
 * Administradores
 * Implementación
+
 ## Grafos
 * Modelando grafos
 * Administradores
@@ -51,9 +55,11 @@
 ## [Conclusiones]()
 ## Bases de datos orientadas a objetos
 * Administradores
+
 ## Bases de datos inmutables
 * Administradores
 * Implementación
+
 ## SQL + NoSQL + NewSQL
 * Evaluar administradores
 * Proyectos
