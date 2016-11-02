@@ -15,8 +15,8 @@
 
 # [Introducción]()
 ## SQL vs NoSQL
-### CAP
-### BASE vs ACID
+CAP
+BASE vs ACID
 ## Modelando datos
 ### Problemas comunes
 ## Modelado de datos NoSQL
