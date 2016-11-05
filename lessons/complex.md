@@ -168,7 +168,7 @@
 
 ---
 
-## Modelar un administrador de proyectos interno
+## Modelar un administrador de proyectos interno!
 
 ---
 
@@ -192,6 +192,7 @@
 ---
 
 ## [Tutorial de Neo4J](https://neo4j.com/developer/get-started/)
+## [OrientDB](http://orientdb.com/docs/2.0/orientdb.wiki/Tutorial-Introduction-to-the-NoSQL-world.html)
 
 ---
 
