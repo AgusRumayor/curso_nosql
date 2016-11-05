@@ -95,7 +95,7 @@
 
 ---
 
-## [Tutorial de Cassandra]()
+## [Tutorial de Cassandra](https://docs.datastax.com/en/cql/3.1/cql/cql_intro_c.html)
 
 ---
 
@@ -130,6 +130,7 @@
 ### Consultas en grafos complejos
 ### Aprender lenguajes de consulta
 ### Cantidad adicional de información al escribir
+### Tiempo al escribir datos
 ### Difícil modelar con texto
 
 ---
@@ -190,7 +191,7 @@
 
 ---
 
-## [Tutorial de Neo4J]()
+## [Tutorial de Neo4J](https://neo4j.com/developer/get-started/)
 
 ---
 

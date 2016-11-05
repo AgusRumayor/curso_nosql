@@ -128,3 +128,11 @@ sudo docker exec admin-mysql sh -c 'exec mysql migration -uroot -p"$MYSQL_ROOT_P
 
 ### csv import
 cat query.csv | cqlsh -e 'use migration; copy municipio_query (idEstado, nombreEstado, idMunicipio, nombreMunicipio) from stdin with header=true ;
+
+---
+
+### 10 Evaluar resultados
+
+### tiempos en memoria y cpu
+### tiempos de respuesta
+### ... agregar más datos
