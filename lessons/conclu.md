@@ -8,15 +8,16 @@
 
 ---
 
-## Características
-### Generalmente dependientes del lenguajes
-### Trasladan las características a los datos
-### Suelen ser transparentes en la implementaciónosql
-### Lenguaje cercano al de programaciónosql
+# Base de datos orientadas a objetos
 
 ---
 
-# Base de datos orientadas a objetos
+## Características
+### Generalmente dependientes del lenguaje
+### Trasladan las características del lenguaje OO a los datos
+### Suelen ser transparentes en la implementación
+### Consultas por medio de las instancias
+### El desempeño depende de los algoritmos implementados
 
 ---
 
@@ -55,8 +56,22 @@
 
 ---
 
-# Bases de datos inmutables
+## Ejemplo
 
 ---
 
+# Bases de datos funcionales
 
+---
+
+## Características
+### También llamadas BD inmutables
+### Traslada la correctitud de la programación funcional
+### Inmutable, Una llamada a la BD = Valor ó función ó una BD
+### Confundidas con append-only
+
+---
+
+## Ventajas
+### Seguridad, consistencia, correctitud de los datos
+### Estados, viaje en el tiempo
