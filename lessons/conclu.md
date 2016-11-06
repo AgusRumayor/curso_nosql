@@ -75,3 +75,14 @@
 ## Ventajas
 ### Seguridad, consistencia, correctitud de los datos
 ### Estados, viaje en el tiempo
+### Mantenimiento de la BD
+### Dificultad para datos corruptos
+
+---
+
+## Desventajas
+
+### Dependencia del lenguaje?
+### No existen
+
+---
