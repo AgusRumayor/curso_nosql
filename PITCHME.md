@@ -525,7 +525,7 @@ Varía en cada administrador, forma de implementar
 
 ---
 
-##Proyectos clásicos
+## Proyectos clásicos
 
 ### Aplicaciones web
 ### Aplicaciones transaccionales
@@ -637,7 +637,7 @@ Varía en cada administrador, forma de implementar
 
 ---
 
-##Proyectos clásicos
+## Proyectos clásicos
 
 ### Aplicaciones con múltiples consultas
 ### Aplicaciones con mayor cantidad de filtros en consultas
@@ -733,7 +733,7 @@ Varía en cada administrador, forma de implementar
 
 ---
 
-##Proyectos clásicos
+## Proyectos clásicos
 
 ### Aplicaciones web
 ### Redes sociales
