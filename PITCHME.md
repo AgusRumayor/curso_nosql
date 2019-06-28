@@ -239,7 +239,7 @@ FROM mexico m1
 
 # Bases de datos NoSQL
 
-![NoSQL](https://francoistoquer.com/img/nosql.png)
+![NoSQL](img/nosql.png)
 
 ---
 
@@ -380,7 +380,7 @@ cat query.csv | cqlsh -e 'use migration; copy municipio_query (idEstado, nombreE
 
 # Bases de datos NoSQL
 
-![NoSQL](https://francoistoquer.com/img/nosql.png)
+![NoSQL](img/nosql.png)
 
 ---
 
@@ -598,7 +598,7 @@ Varía en cada administrador, forma de implementar
 
 # Bases de datos NoSQL
 
-![NoSQL](https://francoistoquer.com/img/nosql.png)
+![NoSQL](img/nosql.png)
 
 ---
 
@@ -800,7 +800,7 @@ Varía en cada administrador, forma de implementar
 
 # Bases de datos NoSQL
 
-![NoSQL](https://francoistoquer.com/img/nosql.png)
+![NoSQL](img/nosql.png)
 
 ---
 
