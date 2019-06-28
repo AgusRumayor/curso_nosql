@@ -1,6 +1,6 @@
 # Bases de datos NoSQL
 
-![NoSQL](https://francoistoquer.com/img/nosql.png)
+![NoSQL](img/nosql.png)
 
 ---
 
