@@ -126,7 +126,7 @@
 
 ---
 
-# Problemas comunes (Relacional)
+### Problemas comunes (Relacional)
 SELECT m1.name, coordinates.lat, coordinates.lon 
 FROM mexico m1
   JOIN population
@@ -150,80 +150,80 @@ FROM mexico m1
 
 ---
 
-# Problemas comunes (Relacional)
+### Problemas comunes (Relacional)
 
-## Jerarquías profundas
-## Valores nulos
-## Self-Join
-## Denormalización
-
----
-
-###Qué tal si...
-
-#Modelado de datos NoSQL
+* Jerarquías profundas
+* Valores nulos
+* Self-Join
+* Denormalización
 
 ---
 
-###Escuela patito -> Clase BD -> Prof John Doe -> Alumno01
-###Escuela patito -> Clase BD -> Prof John Doe -> Alumno02
-###Escuela patito -> Clase Mate -> Prof John Doe -> Alumno03
-###Escuela patito -> Clase Mate -> Prof John Doe -> Alumno02
+### Qué tal si...
+
+## Modelado de datos NoSQL
 
 ---
 
-###Escuela(Clase(Profesor)(Alumno(s)))
+### Escuela patito -> Clase BD -> Prof John Doe -> Alumno01
+### Escuela patito -> Clase BD -> Prof John Doe -> Alumno02
+### Escuela patito -> Clase Mate -> Prof John Doe -> Alumno03
+### Escuela patito -> Clase Mate -> Prof John Doe -> Alumno02
 
 ---
 
-###Escuela:
-###--"patito"
-###--Clase:
-###----"BD"
-###----Profesor:
-###------"John Doe"
-###----Alumno:
-###------"Alumno01"
-###------"Alumno02"
+### Escuela(Clase(Profesor)(Alumno(s)))
 
 ---
 
-#Modelado de datos NoSQL en base a:
-
-##Problema
-##Paradigma de desarrollo
-##Consultas
-
----
-
-#Conceptos generales de Modelado
-
-## Denormalización
-## Duplicados
-## Referencia
+### Escuela:
+### --"patito"
+### --Clase:
+### ----"BD"
+### ----Profesor:
+### ------"John Doe"
+### ----Alumno:
+### ------"Alumno01"
+### ------"Alumno02"
 
 ---
 
-#Técnicas comunes
+### Modelado de datos NoSQL en base a:
 
-## Agregados
-## Listas ordenadas
-## Índices
-## Índices compuestos
-## ...
+### Problema
+### Paradigma de desarrollo
+### Consultas
 
 ---
 
-#Técnicas de jerarquías
+### Conceptos generales de Modelado
 
-## Listas de adyacencia
-## Path materializado
-## Conjuntos anidados
-## Denormalización/Agregados
+### Denormalización
+### Duplicados
+### Referencia
 
 ---
 
-#Actividad Modelado de datos NoSQL
+## Técnicas comunes
+
+* Agregados
+* Listas ordenadas
+* Índices
+* Índices compuestos
+* ...
+
+---
+
+## Técnicas de jerarquías
+
+* Listas de adyacencia
+* Path materializado
+* Conjuntos anidados
+* Denormalización/Agregados
+
+---
+
+## Actividad Modelado de datos NoSQL
 
 ### Modelar es igual o más importante que implementar
 
@@ -243,11 +243,11 @@ FROM mexico m1
 
 ---
 
-#Migración
+# Migración
 
 ---
 
-##Por qué NO migrar
+## Por qué NO migrar
 * ACID
 * Estabilidad de años
 * No tengo necesidad de replicar/particionar
@@ -256,7 +256,7 @@ FROM mexico m1
 
 ---
 
-##Por qué migrar
+## Por qué migrar
 * Data -> Big data
 * Asincronía
 * Desempeño y disponibilidad > Consistencia
@@ -275,8 +275,8 @@ FROM mexico m1
 
 ---
 
-## Son comunes las migraciones?
-## Quién utiliza NoSQL
+### Son comunes las migraciones?
+### Quién utiliza NoSQL
 
 ---
 
