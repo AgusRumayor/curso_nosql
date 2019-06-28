@@ -11,54 +11,54 @@
 
 ---
 
-# [Introducción]()
-## SQL vs NoSQL
+## [Introducción]()
+### SQL vs NoSQL
 * CAP
 * BASE vs ACID
 
-## Modelando datos
+### Modelando datos
 * Problemas comunes
 
-## Modelado de datos NoSQL
+### Modelado de datos NoSQL
 * Actividad Modelado de datos NoSQL
 
 ---
 
-## [Modelados simples]()
-## Clave-Valor
+### [Modelados simples]()
+### Clave-Valor
 * Modelando Clave-Valor
 * Administradores
 * Implementación
 
-## Documentos
+### Documentos
 * Modelando Documentos
 * Administradores
 * Implementación
 
 ---
 
-## [Modelados complejos]()
-## Columnas
+### [Modelados complejos]()
+### Columnas
 * Modelando Columnas
 * Administradores
 * Implementación
 
-## Grafos
+### Grafos
 * Modelando grafos
 * Administradores
 * Implementación
 
 ---
 
-## [Conclusiones]()
-## Bases de datos orientadas a objetos
+### [Conclusiones]()
+### Bases de datos orientadas a objetos
 * Administradores
 
-## Bases de datos inmutables
+### Bases de datos inmutables
 * Administradores
 * Implementación
 
-## SQL + NoSQL + NewSQL
+### SQL + NoSQL + NewSQL
 * Evaluar administradores
 * Proyectos
 
@@ -72,57 +72,57 @@
 
 ---
 
-# Modelo Relacional
-## +++Consistencia
-## +Disponibilidad
-## --Tolerancia a partición
+## Modelo Relacional
+### +++Consistencia
+### +Disponibilidad
+### --Tolerancia a partición
 
 ---
 
-# Modelo Relacional
-## ¿Cuándo lo usamos?
-## ¿Cuándo debemos usarlo?
+## Modelo Relacional
+### ¿Cuándo lo usamos?
+### ¿Cuándo debemos usarlo?
 
 ---
 
-# Modelo X
-## ---Consistencia
-## Disponibilidad
-## +++Tolerancia a partición
+## Modelo X
+### ---Consistencia
+### Disponibilidad
+### +++Tolerancia a partición
 
 ---
 
-# Modelo Y
-## ++Consistencia
-## --Disponibilidad
-## ++Tolerancia a partición
+## Modelo Y
+### ++Consistencia
+### --Disponibilidad
+### ++Tolerancia a partición
 
 ---
 
-# Modelando datos
+## Modelando datos
 
-## Escuela
-## Clases
-## Profesores
-## Alumnos
-
----
-
-# Problemas comunes (Relacional)
-
-## ¿Cómo se implementa una entidad?
-## ¿Cómo se implementa una relación de entidades?
-## ¿Cómo se implementa un atributo?
+* Escuela
+* Clases
+* Profesores
+* Alumnos
 
 ---
 
-# Modelando datos
+## Problemas comunes (Relacional)
 
-## Escuela
-## Clases
-## Profesores
-## Alumnos
-## Horario de Alumno
+### ¿Cómo se implementa una entidad?
+### ¿Cómo se implementa una relación de entidades?
+### ¿Cómo se implementa un atributo?
+
+---
+
+## Modelando datos
+
+* Escuela
+* Clases
+* Profesores
+* Alumnos
+* Horario de Alumno
 
 ---
 
@@ -141,12 +141,12 @@ FROM mexico m1
 
 # Modelando datos
 
-## Escuela
-## Clases
-## Profesores
-## Alumnos
-## Horario de Alumno
-## Amigos
+* Escuela
+* Clases
+* Profesores
+* Alumnos
+* Horario de Alumno
+* Amigos
 
 ---
 
