@@ -64,14 +64,9 @@
 
 ---
 
-#SQL vs NoSQL
-
 ![CAP](img/CAP.png)
 
 ---
-
-
-#SQL vs NoSQL
 
 ![BASE](img/acid.png)
 
