@@ -1,5 +1,3 @@
-# Bases de datos NoSQL
-
 ![NoSQL](img/nosql.png)
 
 ---
